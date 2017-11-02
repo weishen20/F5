@@ -16,6 +16,7 @@ public class F5 {
      */
     public static void main(String[] args) {
         System.out.println("Main");
+        System.out.println("First");
         // TODO code application logic here
     }
     
